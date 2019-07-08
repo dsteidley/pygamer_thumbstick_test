@@ -1,4 +1,4 @@
-# pygamer_thumbstick_test
+# pygamer_test
 Testing out the thumbstick on the pygamer.  
 
 Apparently, I do not have the firmware that corrects for the swapped X and Y axis.
