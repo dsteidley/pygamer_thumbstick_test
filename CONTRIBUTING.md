@@ -1,0 +1,1 @@
+This repository is mostly for experimenting with the Adafruit PyGamer (July 2019).  If you have suggestions you would like to share in the spirit of bettering the overall PyGamer community I would be interested in hearing what you have to say.
